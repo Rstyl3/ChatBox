@@ -1,4 +1,5 @@
 # chatbox-1-layer
+A Simple Chat Box with a reply comment.
 
 ## Project setup
 ```
